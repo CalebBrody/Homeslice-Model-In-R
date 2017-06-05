@@ -1,0 +1,29 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1496427510293.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "C4E5D92B",
+    "lastKnownWriteTime" : 0,
+    "last_content_update" : 1496427510293,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "cacheKey" : "EB1F333B",
+        "caption" : "Equity",
+        "contentUrl" : "grid_resource/gridviewer.html?env=&obj=Equity&cache_key=EB1F333B",
+        "displayedObservations" : 36,
+        "environment" : "",
+        "object" : "Equity",
+        "preview" : 0,
+        "totalObservations" : 36,
+        "variables" : 265
+    },
+    "relative_order" : 3,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_dataframe"
+}
